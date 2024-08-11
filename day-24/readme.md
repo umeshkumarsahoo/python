@@ -1,0 +1,4 @@
+-> learned how to open and close files
+->mostly open using with command and dont have to close manually
+->r= default mode read only
+->w=write mode
