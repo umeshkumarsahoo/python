@@ -1,0 +1,5 @@
+-> making the password manager better
+-> using json data
+->try and except , else , finally
+-> json dump(data,<place to store>,indent)
+->json load =to read 
